@@ -22,7 +22,7 @@
 * **Article:** [A Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/#5-indirect-invocation)
 
 ## Practice
-* Practice Set 4.1
+* [Practice Set 4.1](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-1-execution_context/practice-set-4_1/practice.md)
 
 
 

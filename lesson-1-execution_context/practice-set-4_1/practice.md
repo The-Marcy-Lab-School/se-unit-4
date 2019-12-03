@@ -226,4 +226,4 @@
       };
 
       console.log(computer.total());
-```
+      ```
