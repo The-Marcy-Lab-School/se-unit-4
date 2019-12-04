@@ -21,7 +21,7 @@
 
 4. Create a function, `makeAccount`, that takes a number parameter representing a starting balance and returns an object with three methods - `checkBalance`, `add`, `subtract`. `checkBalance` should return the current balance, `add` should take a number parameter and add it to the current balance, and `subtract` should take a number parameter and subtract it from the current balance.
 
-      ```javascrpit
+      ```javascript
       let myAccount = makeAccount(100);
       myAccount.checkBalance(); // 100
       myAccount.add(50);        // "50 added"
