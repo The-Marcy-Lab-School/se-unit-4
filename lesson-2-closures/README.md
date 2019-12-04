@@ -19,5 +19,5 @@
 * **Article:** (Advanced) [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 ## Practice
-* [Practice Set 4.2](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-2-closures/practice-set-4_2/exercises.md)
+* [Practice Set 4.2](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-2-closures/practice-set/exercises.md)
 
