@@ -21,4 +21,4 @@
 * **Video + Article:** [JavaScript Inheritance and the Prototype Chain](https://tylermcginnis.com/javascript-inheritance-and-the-prototype-chain/)
 
 ## Practice
-* Practice Set 4.4
+* [Practice Set 4.4](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-4-prototypal_inheritance/practice)
