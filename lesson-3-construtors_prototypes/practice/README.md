@@ -73,7 +73,6 @@
 9. Since a constructor is just a function, it can be called without the `new` operator, and this can lead to unexpected results and errors especially for inexperienced programmers.
 
   Write a constructor function that can be used with or without the `new` operator, and return the same result in either form. Use the code below to check your solution:
-
       ```javascript
       function User(first, last) {
         // ...
