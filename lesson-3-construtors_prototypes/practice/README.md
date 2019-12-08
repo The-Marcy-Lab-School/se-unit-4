@@ -73,6 +73,7 @@
 9. Since a constructor is just a function, it can be called without the `new` operator, and this can lead to unexpected results and errors especially for inexperienced programmers.
 
   Write a constructor function that can be used with or without the `new` operator, and return the same result in either form. Use the code below to check your solution:
+
       ```javascript
       function User(first, last) {
         // ...
@@ -86,6 +87,7 @@
       console.log(user1.name);   // => John Doe
       console.log(user2.name);   // => John Doe
       ```
+
   **Hint:** In the constructor function, first check the value of `this` to see if it is an instance of the constructor function. Since, if it's called with the `new` operator JavaScript sets the value of `this` behind the scenes. Given that, check if it's used as a regular function (invoked without the `new`), if it is invoke itself with the `new` operator and return the result. If it is used as a constructor function, run the rest of the code in the function.
       
 10. Use the pseudo-classical object creation pattern to create a `SavingsAccount` constructor. `SavingsAccount` instances should be initialized with a balance of `0`. They should also have three methods:

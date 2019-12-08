@@ -23,4 +23,4 @@
 * **Article:** [JavaScript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)
 
 ### Practice
-* Practice Set 4.3
+* [Practice Set 4.3](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-3-construtors_prototypes/practice)
