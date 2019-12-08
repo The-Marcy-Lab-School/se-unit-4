@@ -4,6 +4,7 @@
 * inheritance
 * prototypal delegation
 * prototype object
+* instance
 
 ## Key Properties/Methods
 * `Object.create`

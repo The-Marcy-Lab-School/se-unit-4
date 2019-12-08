@@ -16,6 +16,7 @@
 * **Tutorial:** [Understanding Closures in JavaScript](https://teamtreehouse.com/library/understanding-closures-in-javascript) on Treehouse
 * **Book:** Principles of Object Oriented JavaScript - pp. 80 - 82
 * **Book:** Eloquent JavaScript: Chapter 3 ([_Closures_](https://eloquentjavascript.net/03_functions.html#h_hOd+yVxaku) Section) 
+* **Article:** [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) on MDN
 * **Article:** (Advanced) [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 ## Practice
