@@ -8,7 +8,7 @@ Today's fluency challenge requires you to go out and fetch data from an API and 
 Test these commands out in the console to explore the response data:
 ```javascript
 const response = await fetch(https://randomuser.me/api/?results=50);
-const data = await request.json();
+const data = await response.json();
 
 data; // {results: Array(50), info: {...}}
 ```
