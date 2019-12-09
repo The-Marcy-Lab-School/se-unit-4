@@ -24,5 +24,6 @@ data; // {results: Array(50), info: {...}}
       ```javascript
       ['<img src="https://randomuser.me/api/portraits/thumb/women/92.jpg">', '<img src="https://randomuser.me/api/portraits/thumb/women/55.jpg">']
       ```
+4. Return the number of users who live in `"United Kingdom"`
 
-4. Return the percentage of `females` in the sample.
+5. Return the percentage of `females` in the sample.
