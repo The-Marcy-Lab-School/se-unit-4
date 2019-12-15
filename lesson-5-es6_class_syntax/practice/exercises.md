@@ -268,8 +268,6 @@
 
   You may assume that none of the values stored in the queue are null (however, null may be used to designate empty spots in the buffer).
 
-
- **Examples:**
       ```javascript
       let queue = new CircularQueue(3);
       console.log(queue.dequeue() === null);
