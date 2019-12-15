@@ -268,46 +268,47 @@
 
   You may assume that none of the values stored in the queue are null (however, null may be used to designate empty spots in the buffer).
 
-      ```javascript
-      let queue = new CircularQueue(3);
-      console.log(queue.dequeue() === null);
+  Example:
+  ```javascript
+  let queue = new CircularQueue(3);
+  console.log(queue.dequeue() === null);
 
-      queue.enqueue(1);
-      queue.enqueue(2);
-      console.log(queue.dequeue() === 1);
+  queue.enqueue(1);
+  queue.enqueue(2);
+  console.log(queue.dequeue() === 1);
 
-      queue.enqueue(3);
-      queue.enqueue(4);
-      console.log(queue.dequeue() === 2);
+  queue.enqueue(3);
+  queue.enqueue(4);
+  console.log(queue.dequeue() === 2);
 
-      queue.enqueue(5);
-      queue.enqueue(6);
-      queue.enqueue(7);
-      console.log(queue.dequeue() === 5);
-      console.log(queue.dequeue() === 6);
-      console.log(queue.dequeue() === 7);
-      console.log(queue.dequeue() === null);
+  queue.enqueue(5);
+  queue.enqueue(6);
+  queue.enqueue(7);
+  console.log(queue.dequeue() === 5);
+  console.log(queue.dequeue() === 6);
+  console.log(queue.dequeue() === 7);
+  console.log(queue.dequeue() === null);
 
-      let anotherQueue = new CircularQueue(4);
-      console.log(anotherQueue.dequeue() === null);
+  let anotherQueue = new CircularQueue(4);
+  console.log(anotherQueue.dequeue() === null);
 
-      anotherQueue.enqueue(1)
-      anotherQueue.enqueue(2)
-      console.log(anotherQueue.dequeue() === 1);
+  anotherQueue.enqueue(1)
+  anotherQueue.enqueue(2)
+  console.log(anotherQueue.dequeue() === 1);
 
-      anotherQueue.enqueue(3)
-      anotherQueue.enqueue(4)
-      console.log(anotherQueue.dequeue() === 2);
+  anotherQueue.enqueue(3)
+  anotherQueue.enqueue(4)
+  console.log(anotherQueue.dequeue() === 2);
 
-      anotherQueue.enqueue(5)
-      anotherQueue.enqueue(6)
-      anotherQueue.enqueue(7)
-      console.log(anotherQueue.dequeue() === 4);
-      console.log(anotherQueue.dequeue() === 5);
-      console.log(anotherQueue.dequeue() === 6);
-      console.log(anotherQueue.dequeue() === 7);
-      console.log(anotherQueue.dequeue() === null);
-      ```
+  anotherQueue.enqueue(5)
+  anotherQueue.enqueue(6)
+  anotherQueue.enqueue(7)
+  console.log(anotherQueue.dequeue() === 4);
+  console.log(anotherQueue.dequeue() === 5);
+  console.log(anotherQueue.dequeue() === 6);
+  console.log(anotherQueue.dequeue() === 7);
+  console.log(anotherQueue.dequeue() === null);
+  ```
   The above code should log `true` 15 times.
 
   _See [here](https://en.wikipedia.org/wiki/Circular_buffer) for mor information on Circular Buffers._
