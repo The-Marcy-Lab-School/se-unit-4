@@ -244,21 +244,22 @@
 
   Assuming we have a circular queue with room for 3 objects, the circular queue looks and acts like this:
 
-  |P1|P2|P3|Comments|
-  |--|--|--|All positions are initially empty|
-  |1 |--|--|Add 1 to the queue|
-  |1 |2 |--|Add 2 to the queue|
-  |2 |--|--|Remove oldest item from the queue (1)|
-  |2 |3 |--|Add 3 to the queue|
-  |4 |2 |3 |Add 4 to the queue, queue is now full|
-  |4 |3 |  |Remove oldest item from the queue (2)|
-  |4 |5 |3 |Add 5 to the queue, queue is full again|
-  |4 |5 |6 |Add 6 to the queue, replaces oldest element (3)|
-  |7 |5 |6 |Add 7 to the queue, replaces oldest element (4)|
-  |7 |6 |--|Remove oldest item from the queue (5)|
-  |7 |--|--|Remove oldest item from the queue (6)|
-  |--|--|--|Remove oldest item from the queue (7)|
-  |--|--|--|Remove non-existent item from the queue (nil)|
+   | P1 | P2 | P3 | Comments | 
+   | -- | -- | -- | -- | 
+   | -- | -- | -- | All positions are initially empty | 
+   | 1  | -- | -- | Add 1 to the queue | 
+   | 1  | 2  | -- | Add 2 to the queue | 
+   | 2  | -- | -- | Remove oldest item from the queue (1) | 
+   | 2  | 3  | -- | Add 3 to the queue | 
+   | 4  | 2  | 3  | Add 4 to the queue, queue is now full | 
+   | 4  | 3  |    | Remove oldest item from the queue (2) | 
+   | 4  | 5  | 3  | Add 5 to the queue, queue is full again | 
+   | 4  | 5  | 6  | Add 6 to the queue, replaces oldest element (3) | 
+   | 7  | 5  | 6  | Add 7 to the queue, replaces oldest element (4) | 
+   | 7  | 6  | -- | Remove oldest item from the queue (5) | 
+   | 7  | -- | -- | Remove oldest item from the queue (6) | 
+   | -- | -- | -- | Remove oldest item from the queue (7) | 
+   | -- | -- | -- | Remove non-existent item from the queue (nil) | 
 
   Your task is to write a `CircularQueue` class that implements a circular queue for arbitrary objects. The class should obtain the buffer size with an argument provided to the constructor, and should provide the following methods:
 

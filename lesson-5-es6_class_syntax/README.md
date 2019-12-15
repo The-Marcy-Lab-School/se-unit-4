@@ -22,4 +22,4 @@
 * **Article**: [A Short Overview of Object-Oriented Software Design](https://www.freecodecamp.org/news/a-short-overview-of-object-oriented-software-design-c7aa0a622c83/)
 
 ## Practice
-* Practice Set 4.5
+* [Practice Set 4.5](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-5-es6_class_syntax/practice/exercises.md)
