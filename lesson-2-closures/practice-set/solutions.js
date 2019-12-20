@@ -17,23 +17,6 @@ function makeCounter() {
  */
 
 // Question 4
-const makeAccount = function(startingBalance) {
-  let balance = startingBalance;
-
-  return {
-    checkBalance() {
-      return balance;
-    },
-    add(amount) {
-      balance += amount;
-      return `${amount} added`
-    },
-    subtract(amount) {
-      balance -= amount;
-      return `${amount} subtracted`
-    },
-  };
-};
 
 // Question 5
 const makeFriendList = function() {
