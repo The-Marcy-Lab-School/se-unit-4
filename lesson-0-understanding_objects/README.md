@@ -19,8 +19,8 @@
 
 ## Learning Assignments
 * **Reading:** Eloquent JavaScript - [Chapter 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html) (stop at _Prototypes_ section) 
-* **Book:** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 3: Understanding Objects
 * **Video:** [Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
+* **Book:** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 3: Understanding Objects
 
 ## Practice
 * [Problem Set 4.0](https://github.com/The-Marcy-Lab-School/problem-set-4_0)
