@@ -19,7 +19,9 @@
 
 ## Learning Assignments
 * **Article:** [The Global Object](https://javascript.info/global-object)
-* **Article:** [A Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/#5-indirect-invocation)
+* **Article:** [Demystifying the JavaScript this Keyword](https://www.javascripttutorial.net/javascript-this/)
+* **Video:** [JavaScript this keyword](https://www.youtube.com/watch?v=gvicrj31JOM)
+* **Article:** (Advanced) [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Practice
 * [Practice Set 4.1](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-1-execution_context/practice-set-4_1/practice.md)
