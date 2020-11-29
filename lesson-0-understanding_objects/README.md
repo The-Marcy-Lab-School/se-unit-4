@@ -18,9 +18,8 @@
 * What are factory functions and why are they useful?
 
 ## Learning Assignments
-* **Tutorial:**  Codecademy - [Intro to JavaScript: Unit 8 - Objects & Advanced Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects)
 * **Reading:** Eloquent JavaScript - [Chapter 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html) (stop at _Prototypes_ section) 
-* **Book:** The Principles of Object-Oriented JavaScript - Chapter 3: Understanding Objects
+* **Book:** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 3: Understanding Objects
 * **Video:** [Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
 
 ## Practice
