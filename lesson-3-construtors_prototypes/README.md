@@ -19,7 +19,7 @@
 ### Learning Assignments
 * **Video:** [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI)
 * **Video:** [Object Oriented JavaScript Tutorial #10 - Prototype](https://www.youtube.com/watch?v=4jb4AYEyhRc)
-* **Book (Advanced):** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 4: Contructors and Prototypes
+* **Book:** (Advanced) [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 4: Contructors and Prototypes
 
 ### Practice
 * [Practice Set 4.3](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-3-construtors_prototypes/practice)
