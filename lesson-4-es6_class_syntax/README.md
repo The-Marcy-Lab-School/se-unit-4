@@ -1,4 +1,4 @@
-# Unit 4 Lesson 5 - Object-Oriented Design and the ES6 Class Syntax
+# Unit 4 Lesson 5 - ES6 Class Syntax
 
 ## Key Terms
 * polymorphism
@@ -14,7 +14,6 @@
 * What is polymorphism and why is it a common practice in OOP?
 * What is encapsulation?
 * What is the purpose of getter and setter methods?
-* What are the benefits of an inheritance relationship between classes? What is the drawback?
 
 ## Learning Assignments
 * **Article**: [Claseses](https://javascript.info/class)
