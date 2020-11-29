@@ -18,9 +18,8 @@
 
 ### Learning Assignments
 * **Video (Review):** [JavaScript Function Factory](https://www.youtube.com/watch?v=jpegXpQpb3o)
-* **Video:** [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI)
 * **Video:** [Object Oriented JavaScript Tutorial #10 - Prototype](https://www.youtube.com/watch?v=4jb4AYEyhRc)
-* **Book:** The Principles of Object-Oriented JavaScript - Chapter 4
+* **Video:** [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI)
 * **Article:** [JavaScript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)
 
 ### Practice
