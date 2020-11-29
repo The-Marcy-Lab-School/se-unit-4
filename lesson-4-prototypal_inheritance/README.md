@@ -5,7 +5,6 @@
 * prototypal delegation
 * prototype object
 * instance
-* mixin
 
 ## Key Properties/Methods
 * `Object.create`
@@ -20,9 +19,8 @@
 * What is a _mixin_ and when would create a mixin relationship instead of inheritance?
 
 ## Learning Assignments (_complete in order_)
-1. **Video:** [JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+1. **Video:** [JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=Fsp42zUNJYU)
 2. **Video + Article:** [JavaScript Inheritance and the Prototype Chain](https://tylermcginnis.com/javascript-inheritance-and-the-prototype-chain/)
-4. **Article:** [Understanding Mixins in JavaScript](https://blog.bitsrc.io/understanding-mixins-in-javascript-de5d3e02b466)
 
 ## Practice
 * [Practice Set 4.4](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-4-prototypal_inheritance/practice)
