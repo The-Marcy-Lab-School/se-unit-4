@@ -19,7 +19,7 @@
 ## Learning Assignments
 * **Article**: [Claseses](https://javascript.info/class)
 * **Tutorial**: [Classes in JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/lessons/classes/exercises/introduction) on Codecademy
-* **Book**: Eloquent JavaScript (from Classes) - [Chapter 6](https://eloquentjavascript.net/06_object.html#h_7RhGr+474h) 
+* **Book**: Eloquent JavaScript - [Chapter 6](https://eloquentjavascript.net/06_object.html#h_7RhGr+474h) from "Classes" section
 * **Article**: [A Short Overview of Object-Oriented Software Design](https://www.freecodecamp.org/news/a-short-overview-of-object-oriented-software-design-c7aa0a622c83/)
 
 ## Practice
