@@ -21,6 +21,7 @@
 * **Tutorial:**  Codecademy - [Intro to JavaScript: Unit 8 - Objects & Advanced Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects)
 * **Reading:** Eloquent JavaScript - [Chapter 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html) (stop at _Prototypes_ section) 
 * **Book:** The Principles of Object-Oriented JavaScript - Chapter 3: Understanding Objects
+* **Video:** [Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
 
 ## Practice
 * [Problem Set 4.0](https://github.com/The-Marcy-Lab-School/problem-set-4_0)
