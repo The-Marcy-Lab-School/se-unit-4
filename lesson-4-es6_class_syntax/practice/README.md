@@ -1,4 +1,4 @@
-# Unit 4 Lesson 5 Practice
+# Unit 4 Lesson 4 Practice
 ## ES6 Class Syntax and Object Oriented Design
 
 0. What is polymorphism? Use code to illustrate your definition.
