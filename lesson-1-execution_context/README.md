@@ -25,6 +25,6 @@
 
 ## Practice
 * Problem Set 4.1 on Canvas
-* [Practice Set 4.1](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-1-execution_context/practice-set-4_1)
+* [Practice Set 4.1](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-1-execution_context/practice)
 
 

@@ -269,4 +269,4 @@
       ```
 9. [REDACTED FOR EXAM]
 
-10. As we have seen in class, there is no one right answer to a question like this. In an ideal world, this would be asked in an interview setting, where you can ask clarifying questions. Make design choices to the best of your abilities and we will review this one in class together.
+10. As we have seen in class, there is no one right answer to a question like this. In an ideal world, this would be asked in an interview setting, where you can ask clarifying questions. Make design choices to the best of your abilities.

@@ -1,4 +1,4 @@
-# Unit 4 Lesson 4 Practice Set
+# Unit 4 Lesson 5 Practice Set
 ## Prototypal Inheritance
 
 1. What is the `constructor` property that can be accessed on all JavaScript objects?

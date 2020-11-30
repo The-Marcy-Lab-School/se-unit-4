@@ -18,5 +18,5 @@
 * **Article:** (Advanced) [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) on MDN
 
 ## Practice
-* [Practice Set 4.2](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-2-closures/practice-set)
+* [Practice Set 4.2](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-2-closures/practice)
 
