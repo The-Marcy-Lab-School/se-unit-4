@@ -23,5 +23,5 @@
 * **Book:** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 3: Understanding Objects
 
 ## Practice
-* [Problem Set 4.0](https://github.com/The-Marcy-Lab-School/problem-set-4_0)
+* Problem Set 4.0 on Canvas
 
