@@ -1,4 +1,4 @@
-# Unit 4 Lesson 5 - ES6 Class Syntax
+# Unit 4 Lesson 4 - ES6 Class Syntax
 
 ## Key Terms
 * polymorphism
@@ -22,4 +22,4 @@
 * **Book**: Eloquent JavaScript - [Chapter 6](https://eloquentjavascript.net/06_object.html#h_7RhGr+474h) from "Classes" section
 
 ## Practice
-* [Practice Set 4.5](https://github.com/The-Marcy-Lab-School/se-unit-4/blob/master/lesson-5-es6_class_syntax/practice/exercises.md)
+* [Practice Set 4.4](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-4-es6_class_syntax/practice)
