@@ -6,3 +6,6 @@
 * [Article: Designing a Parking Lot](https://www.geeksforgeeks.org/design-parking-lot-using-object-oriented-principles/) (Notes: The code examples here are Java, but is similar enough to JavaScript to understand the concepts)
 * [Video: Design Patterns Video Tutorial](https://www.youtube.com/watch?v=vNHpsC5ng_E)
 * [Video: OO Design - Inheritance](https://www.youtube.com/watch?v=oZcLmje8-fg)
+
+## Practice
+* [Amazon an Amazon Store](/practice)
