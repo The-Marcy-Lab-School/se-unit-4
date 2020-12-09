@@ -1,6 +1,6 @@
 ## Design Challenge 
 
-Design an Amazon Store using Object Oriented JavaScript. What classes can you create? and HOw are they related?
+Design an Amazon Store using Object Oriented JavaScript. What classes can you create? and How are they related?
 
 For example, you cound have a `User` class, an `Cart` class, and an `Item` class.
 
