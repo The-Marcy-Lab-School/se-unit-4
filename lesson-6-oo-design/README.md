@@ -8,4 +8,4 @@
 * [Video: OO Design - Inheritance](https://www.youtube.com/watch?v=oZcLmje8-fg)
 
 ## Practice
-* [Build an Amazon Store](/practice)
+* [Build an Amazon Store](/lesson-6-oo-design/practice)
