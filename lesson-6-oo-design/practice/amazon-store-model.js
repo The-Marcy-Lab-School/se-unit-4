@@ -1,11 +1,21 @@
-function Item(name, price, quantity, description, isPrime = false) {
-    this.name = name;
-    this.price = price;
-    this.quantity = quantity;
-    this.description = description;
-    this.prime = isPrime;
-    this.itemId = Item.idCounter();
-    this.reviews = [];
+class Item{
+    constructor(name, price, description, isPrime = false) {
+        this.name = name;
+        this.price = price;
+        this.description = description;
+        this.prime = isPrime;
+        this.itemId = Item.idCounter();
+        this.reviews = [];
+    }
+
+    toString() {
+        return this.name;
+    }
+
+    addReview(rating, comment){
+        let review = new Review(rating, comment)
+        this.reviews.push(review)
+    }
 }
 
 Item.idCounter = (function() {
@@ -16,54 +26,60 @@ Item.idCounter = (function() {
     }
 })()
 
-Item.prototype.toString = function() {
-    return this.name;
+class Review{
+    constructor(rating, comment) {
+        this.rating = rating;
+        this.comment = comment;
+        this.date = new Date();
+    }
 }
 
-function Cart(){
-    this.items = []
-}
-
-Cart.prototype.numOfItems = function() {
-    return this.items.length;
-}
-
-Cart.prototype.getTotal = function() {
-    return this.items.reduce((total, item) => total + item.price, 0);
-}
-
-function Account(name, email, paymentMethod, isPrime) {
-    this.name = name;
-    this.email = email;
-    this.paymentMethod = paymentMethod;
-    this.isPrime = isPrime;
-    this.cart = new Cart();
-    this.reviews = [];
-    this.saveForLater = [];
-    this.orders = [];
-}
-
-Account.prototype.addItem = function(item, quantity) {
-    for (let i = 1; i <= quantity; i += 1) {
-        this.cart.items.push(item)
+class Cart{
+    constructor(){
+        this.items = []
     }
 
-    item.quantity -= quantity;
-    return `${item} added.`
+    numOfItems() {
+        return this.items.length;
+    }
+
+    getTotal() {
+        return this.items.reduce((total, item) => total + item.price, 0);
+    }
 }
 
-Account.prototype.deleteItem = function(item) {
-    let itemsArr = this.cart.items;
-    itemsArr.splice(itemsArr.indexOf(item), 1);
-    return `${item} deleted`;
-}
-
-function Review(rating, comment, picture) {
-    this.rating = rating;
-    this.comment = comment;
-    this.date = new Date();
-    this.picture = picture;
+class User{
+    constructor(name, email, paymentMethod, isPrime) {
+        this.name = name;
+        this.email = email;
+        this.paymentMethod = paymentMethod;
+        this.isPrime = isPrime;
+        this.cart = new Cart();
+        this.reviews = [];
+        this.saveForLater = [];
+        this.orders = [];
+    }
+    
+    addItem(item, quantity) {
+        for (let i = 1; i <= quantity; i += 1) {
+            this.cart.items.push(item)
+        }
+        item.quantity -= quantity;
+        return `${item} added.`
+    }
+    
+    deleteItem(item) {
+        let itemsArr = this.cart.items;
+        itemsArr.splice(itemsArr.indexOf(item), 1);
+        return `${item} deleted`;
+    }
 }
 
 let markers = new Item('Markers', 9.99, 50, 'Best markers in the world')
-let petersAccount = new Account('peter', 'peter@gmail.com', 'Credit Card', true)
+let peter = new User('peter', 'peter@gmail.com', 'Credit Card', true)
+peter.addItem(markers, 5)   // What does this print out?
+peter.cart                  // What does this print out?
+peter.cart.numOfItems()     // What does this print out?
+peter.cart.getTotal()       // What does this print out?
+markers.addReview(4, "nice markers, but not the best in the world")
+markers.reviews             // What does this print out?
