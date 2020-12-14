@@ -64,7 +64,6 @@ class User{
         for (let i = 1; i <= quantity; i += 1) {
             this.cart.items.push(item)
         }
-        item.quantity -= quantity;
         return `${item} added.`
     }
     
