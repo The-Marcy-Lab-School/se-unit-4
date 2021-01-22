@@ -6,4 +6,4 @@ For example, you cound have a `User` class, an `Cart` class, and an `Item` class
 
 A User has a cart (and only one cart), but a cart can have a list of many items.
 
-There are many possible solutions. Try this out yourself, and when you are done, compare it to this sample [solution](amazon-store-model.js). 
+There are many possible solutions, and you get to be as creative as you want to be!
