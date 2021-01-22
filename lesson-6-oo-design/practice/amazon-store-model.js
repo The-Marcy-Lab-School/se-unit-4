@@ -1,3 +1,5 @@
+//One of many, many, many possible implementations.
+
 class Item{
     constructor(name, price, description, isPrime = false) {
         this.name = name;
