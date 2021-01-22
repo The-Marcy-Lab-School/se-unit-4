@@ -29,7 +29,7 @@
       * `ringBell`, which returns `"ding ding!"`
       * `fireDrill`, which unlocks all doors and returns `"Fire Drill active"`
 
-4. Create a `Polygon` constructor. It should have the following properties:
+4. Create a `Polygon` class. It should have the following properties:
       * `sides`, an array of side lengths
   
    It should have the following methods available to it:
@@ -43,7 +43,7 @@
       pentagon.getPerimeter();  // 105
       ```
 
-5. Create a `Triangle` constructor that inherits from `Polygon`. In addition to the `Polygon` properties, `Triangle` instances should have the following properties available to it:
+5. Create a `Triangle` class that inherits from `Polygon`. In addition to the `Polygon` properties, `Triangle` instances should have the following properties available to it:
     * `isEqualateral`, which returns `true` if all sides are congruent
     
       In addition to `Polygon` prototype methods, `Triangle` instances should have the following available to it:
@@ -58,7 +58,7 @@
       tri.isRight();        // true
       ```
 
-6. Create a `Rectangle` constructor. `Rectangle`s are initialized with only two arguments - a length and a width. In addition to inheriting from `Polygon`, instances of `Rectangle` should have the following protoype **methods**:
+6. Create a `Rectangle` class. `Rectangle`s are initialized with only two arguments - a length and a width. In addition to inheriting from `Polygon`, instances of `Rectangle` should have the following protoype **methods**:
       
       * `getArea` that returns the area of the rectangle
       * `getPerimeter`, that returns the perimeter of the rectangle
@@ -72,7 +72,7 @@
       rect.isRegular;    // false
       ```
 
-7. Create a `Square` constructo. It should inherit from `Rectangle` (because a square is just a special type of rectangle, right?! 🤓). `Square`s are initialized with only one argument - a side length. In addition to all methods and properties of `Polygon`s **and** `Rectangles`, instances of the `Square` constructor should have the following methods available to it:
+7. Create a `Square` class. It should inherit from `Rectangle` (because a square is just a special type of rectangle, right?! 🤓). `Square`s are initialized with only one argument - a side length. In addition to all methods and properties of `Polygon`s **and** `Rectangles`, instances of the `Square` class should have the following methods available to it:
       * `getArea`
       * `getPerimeter`
       * `areaOfInscribedCircle`, which returns the area of a circle inscribed within the square (blast from the past, I know... 🙀).
