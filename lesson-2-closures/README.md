@@ -13,7 +13,7 @@
 * How can we use closures to create private data?
 
 ## Learning Assignments
-* **Tutotiral:** [JavaScript Closure](https://www.tutorialsteacher.com/javascript/closure-in-javascript)
+* **Tutorial:** [JavaScript Closure](https://www.tutorialsteacher.com/javascript/closure-in-javascript)
 * **MDN Documentation:** [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) 
 * **MDN Documentation:** [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) on MDN
 * **Article:** [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
