@@ -7,5 +7,7 @@
 * [Video: Design Patterns Video Tutorial](https://www.youtube.com/watch?v=vNHpsC5ng_E)
 * [Video: OO Design - Inheritance](https://www.youtube.com/watch?v=oZcLmje8-fg)
 
+Note: Some of these learning resources use JAVA in their examples. It's more important that you understand the **concepts** around Object-Oriented Design and be able to apply them to JavaScript, os any other programming language!
+
 ## Practice
 * [Build an Amazon Store](/lesson-6-oo-design/practice)
