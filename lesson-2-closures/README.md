@@ -13,9 +13,9 @@
 * How can we use closures to create private data?
 
 ## Learning Assignments
-* **Tutorial:** [Understanding Closures in JavaScript](https://teamtreehouse.com/library/understanding-closures-in-javascript) on Treehouse
 * **Article:** (Advanced) [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
-* **Article:** (Advanced) [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) on MDN
+* **MDN Documentation:** [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) 
+* **MDN Documentation:** (Advanced) [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) on MDN
 
 ## Practice
 * [Practice Set 4.2](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-2-closures/practice)
