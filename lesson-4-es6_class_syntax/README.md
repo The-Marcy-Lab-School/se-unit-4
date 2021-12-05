@@ -18,7 +18,7 @@
 ## Learning Assignments
 * **Article**: [Claseses](https://javascript.info/class)
 * **Book**: Eloquent JavaScript - [Chapter 6](https://eloquentjavascript.net/06_object.html#h_7RhGr+474h) from "Classes" section
-* **Optional**: Codecadmy - Intermediate JavaScript
+* **Optional**: Codecademy - Intermediate JavaScript
   * Classes (starting from **Introduction to Class** through to **Method Calls**) 
 
 ## Practice
