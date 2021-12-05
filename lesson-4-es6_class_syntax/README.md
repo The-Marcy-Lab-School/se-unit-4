@@ -18,6 +18,8 @@
 ## Learning Assignments
 * **Article**: [Claseses](https://javascript.info/class)
 * **Book**: Eloquent JavaScript - [Chapter 6](https://eloquentjavascript.net/06_object.html#h_7RhGr+474h) from "Classes" section
+* **Codecademy**: Optional: Intermediate JavaScript
+  * Classes (starting from **Introduction to Class** through to **Method Calls**) 
 
 ## Practice
 * [Practice Set 4.4](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-4-es6_class_syntax/practice)
