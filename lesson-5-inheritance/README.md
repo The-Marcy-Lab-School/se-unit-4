@@ -1,4 +1,4 @@
-# Unit 4 Lesson 4: Prototypal Inheritance
+# Unit 4 Lesson 5: Inheritance
 
 ## Key Terms
 * inheritance
