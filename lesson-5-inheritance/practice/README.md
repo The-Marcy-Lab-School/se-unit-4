@@ -10,8 +10,8 @@
       * `isLocked`
 
    `Building` instances should have the following methods available to them:
-      * `unlock`, which sets the `isLocked` property to `false`
-      * `lock`, which sets the `isLocked` property to `true`
+      * `unlock`, which sets the `isLocked` property to `false` and does not return anything
+      * `lock`, which sets the `isLocked` property to `true` and does not return anything
 
    We should be able to instantiate a building as follows:
       ```javascript
@@ -20,6 +20,13 @@
       bkCommons.numOfFloors; // 4
       bkCommons.squareFt;    // 4500
       bkCommons.isLocked;    // true
+      
+      bkCommons.unlock();    // undefined
+      bkCommons.isLocked;    // false
+      
+      bkCommons.lock();      // undefined
+      bkCommons.isLocked;    // true
+
       ```
 
 3. Create a `School` constructor. It should inherit from `Building`. Moreover, it should have these additional properties:
