@@ -23,7 +23,7 @@
       square.getArea();   // 100
       ```
 
-3. Given a class `Animal` create two classes `Cat` and `Dog` than inherit from it.
+3. Given a class `Animal` create two classes `Cat` and `Dog` that inherit from it.
 
       ```javascript
       class Animal {
