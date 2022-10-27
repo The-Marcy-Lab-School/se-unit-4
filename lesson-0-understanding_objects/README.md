@@ -8,7 +8,6 @@
 * accessor properties
 * method
 * enumerable
-* private data
 * factory functions
 
 ## Essential Questions
