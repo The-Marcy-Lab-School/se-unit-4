@@ -5,14 +5,15 @@
 * state
 * behavior
 * data properties
-* accessor properties
 * method
+* private data
 * enumerable
 * factory functions
 
 ## Essential Questions
 * What is encapsulation? Why do we use it? How do objects enable it?
 * How do objects encapsulate state? How do they encapsulate behavior?
+* What are private variables? What is the JavaScript naming convention for private variables?
 * What are factory functions and why are they useful?
 * What are examples of how we can create factory functions?
 
@@ -21,6 +22,5 @@
 * **Video:** [Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
 * **Book:** [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - Chapter 3: Understanding Objects
 
-## Practice
-* Problem Set 4.0 on Canvas
+
 
