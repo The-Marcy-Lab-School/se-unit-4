@@ -13,8 +13,8 @@
 ## Essential Questions
 * What is encapsulation? Why do we use it? How do objects enable it?
 * How do objects encapsulate state? How do they encapsulate behavior?
-* How do we create _private data_ within JavaScript objects? What is the role of _accessor properties_?
 * What are factory functions and why are they useful?
+* What are examples of how we can create factory functions?
 
 ## Learning Assignments
 * **Reading:** Eloquent JavaScript - [Chapter 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html) (stop at _Prototypes_ section) 
