@@ -24,7 +24,6 @@
 * **Article:** (Advanced) [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Practice
-* Problem Set 4.1 on Canvas
 * [Practice Set 4.1](https://github.com/The-Marcy-Lab-School/se-unit-4/tree/master/lesson-1-execution_context/practice)
 
 
